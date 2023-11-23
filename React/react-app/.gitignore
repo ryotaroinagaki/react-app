@@ -21,3 +21,31 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+    ../../.CFUserTextEncoding
+    ../../.DS_Store
+    ../../.gitconfig
+    ../../.lesshst
+    ../../.local/
+    ../../.npm/
+    ../../.rbenv/
+    ../../.ruby-version
+    ../../.ssh/
+    ../../.th-client/
+    ../../.vscode/
+    ../../.zprofile
+    ../../.zsh_history
+    ../../.zsh_sessions/
+    ../../.zshrc
+    ../../Applications/
+    ../../Desktop/
+    ../../Documents/
+    ../../Downloads/
+    ../../Library/
+    ../../Movies/
+    ../../Music/
+    ../../Pictures/
+    ../../Public/
+    ../.DS_Store
+    ../../Soramix2English/
+    ../../sqledi2/
